@@ -1,0 +1,14 @@
+name: mongodb
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2018.03.07=0
+  - libcurl=7.61.1=heec0ca6_0
+  - libgcc-ng=8.2.0=hdf63c60_1
+  - libssh2=1.8.0=h9cfc8f7_4
+  - libstdcxx-ng=8.2.0=hdf63c60_1
+  - mongodb=4.0.2=h3a61b39_0
+  - openssl=1.0.2p=h14c3975_0
+  - zlib=1.2.11=ha838bed_2
+prefix: /home/ec2-user/anaconda3/envs/mongodb
+
