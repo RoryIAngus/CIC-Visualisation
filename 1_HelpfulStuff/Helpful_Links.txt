@@ -1,0 +1,9 @@
+The following are helpful links that I have found relating to Python.
+
+
+Helpful Python Code Snippets for Data Exploration in Pandas
+
+https://medium.com/@msalmon00/helpful-python-code-snippets-for-data-exploration-in-pandas-b7c5aed5ecb9 
+
+This is for generating the time sheets.
+https://www.gtimereport.com/Report
